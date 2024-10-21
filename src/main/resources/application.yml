@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: productservice
+    
+aws:
+  dynamodb:
+    endpoint: https://dynamodb.ap-south-1.amazonaws.com   # Replace <your-region> with your AWS region (e.g., us-east-1)
+    region: ap-south-1                                   # Replace <your-region> with your AWS region
+    accessKeyId: AKIAYSE4N4EW7PEZUOGY                       # Your AWS access key ID
+    secretAccessKey: XpqyINKc9cPw7lhIS9N/9pvxWAhrLt9sJvvHIVLP  
